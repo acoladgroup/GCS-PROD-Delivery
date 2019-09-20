@@ -6,7 +6,7 @@
 # Usage: ./setAdfServerConfig.sh
 ###########################################################################################
 
-export ADMIN_URL="t3://xi02uu-gcm-app1.amplexor.com:7002"
+export ADMIN_URL="t3://xi02pu-gcm-app1.amplexor.com:7002"
 export ADMIN_LOGIN="weblogic"
-export ADMIN_PASSWORD="ict4gcmuat"
+export ADMIN_PASSWORD="a7525c1135"
 export TARGET="gcm_cluster"

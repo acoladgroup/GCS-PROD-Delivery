@@ -1,5 +1,5 @@
 workingDirectory = './work'
-gcsEnvironment = 'UAT'
+gcsEnvironment = 'PROD'
 fullyDeployed = true
 
 def json
@@ -635,7 +635,7 @@ def buildTable(listOfItems) {
 pipeline {
     agent  { node { label 'alt' } }
     parameters {
-        booleanParam(name: "Dry run ?", description: 'Be carefull, you will deploy this version on UAT environment', defaultValue: true)
+        booleanParam(name: "Dry run ?", description: 'Be carefull, you will deploy this version on PROD environment', defaultValue: true)
     }
     environment {
         JAVA_HOME = "/usr/lib/jvm/java-8-oracle"
