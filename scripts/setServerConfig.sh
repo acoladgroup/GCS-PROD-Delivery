@@ -7,14 +7,14 @@
 ###########################################################################################
 
 # Properties for APP server
-export APP_ADMIN_URL="t3://xi02uu-gcm-app1.amplexor.com:7002"
+export APP_ADMIN_URL="t3://xi02pu-gcm-app1.amplexor.com:7002"
 export APP_ADMIN_LOGIN="weblogic"
-export APP_ADMIN_PASSWORD="ict4gcmuat"
+export APP_ADMIN_PASSWORD="a7525c1135"
 export APP_TARGET="gcm_cluster"
 
 # Properties for BPM server
-export BPM_ADMIN_URL="t3://xi02uu-gcm-bpm1.amplexor.com:7002"
+export BPM_ADMIN_URL="t3://xi02pu-gcm-bpm1.amplexor.com:7002"
 export BPM_ADMIN_LOGIN="weblogic"
-export BPM_ADMIN_PASSWORD="ict4gcmuat"
+export BPM_ADMIN_PASSWORD="a7525c1135"
 export BPM_TARGET="soa_cluster"
 export BPM_SOA_SERVER_URL="http://xi02uu-gcm-bpm1.amplexor.com:8001"
