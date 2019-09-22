@@ -1,5 +1,5 @@
 {"delivery": {
-  "deployed": false,
+  "deployed": true,
   "soa":   [
         {
       "id": "Z2NtLXJlbGVhc2U6MWM3ODdhMDNkYjgyMDllYmNkOGVlNGQyYWY3NGFkYWM",
@@ -8,9 +8,9 @@
       "group": "com.euroscript.gcm.bpm",
       "name": "gcm-soa-humantaskevents",
       "version": "8.3.6.0-RC1",
-      "downloaded": false,
-      "deployed": false,
-      "status": "IN ERROR : java.lang.Exception: Can't find the artefact com.euroscript.gcm.bpm:gcm-soa-humantaskevents:8.3.6.0-RC1"
+      "downloaded": true,
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6NzZkN2Q3ZTQxODZhMzkwZmU2ZTg5MDMyOGMzYWY1YzY",
@@ -20,8 +20,8 @@
       "name": "gcm-soa-sapcustomer",
       "version": "8.3.6.0-RC3",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR : java.lang.Exception: Can't deploy the SOA com.euroscript.gcm.bpm:gcm-soa-sapcustomer:8.3.6.0-RC3"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6Y2Y2MDZmODI1NjBlYTkwNmQ0YzExNThlZTI4N2M3Nzc",
@@ -30,9 +30,9 @@
       "group": "com.euroscript.gcm.bpm",
       "name": "gcm-soa-sapsales",
       "version": "8.3.6.0-RC2",
-      "downloaded": false,
-      "deployed": false,
-      "status": "IN ERROR : java.lang.Exception: Can't find the artefact com.euroscript.gcm.bpm:gcm-soa-sapsales:8.3.6.0-RC2"
+      "downloaded": true,
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6MWM3ODdhMDNkYjgyMDllYjgyNGUwYjU3N2U5NTk5YTM",
@@ -41,9 +41,9 @@
       "group": "com.euroscript.gcm.bpm",
       "name": "gcm-soa-sapvendor",
       "version": "8.3.6.0-RC4",
-      "downloaded": false,
-      "deployed": false,
-      "status": "IN ERROR : java.lang.Exception: Can't find the artefact com.euroscript.gcm.bpm:gcm-soa-sapvendor:8.3.6.0-RC4"
+      "downloaded": true,
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6ZGZiZWYwOWVmZTE2NDRlYTg0MDkzOGEwMWVjNzZhODk",
@@ -52,9 +52,9 @@
       "group": "com.euroscript.gcm.bpm",
       "name": "gcm-soa-sapqueue",
       "version": "8.3.6.0-RC1",
-      "downloaded": false,
-      "deployed": false,
-      "status": "IN ERROR : java.lang.Exception: Can't find the artefact com.euroscript.gcm.bpm:gcm-soa-sapqueue:8.3.6.0-RC1"
+      "downloaded": true,
+      "deployed": true,
+      "status": "OK"
     }
   ]
 }}
