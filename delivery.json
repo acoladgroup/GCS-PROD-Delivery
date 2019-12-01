@@ -1,5 +1,5 @@
 {"delivery": {
-  "deployed": false,
+  "deployed": true,
   "adf_app": [  {
     "id": "Z2NtLXJlbGVhc2U6NzZkN2Q3ZTQxODZhMzkwZjE2MTdkZjBkZjI5NTY5YTA",
     "repository": "gcm-release",
@@ -46,8 +46,8 @@
     "name": "gcm-app-mds",
     "version": "8.3.8.0-RC4",
     "downloaded": false,
-    "deployed": false,
-    "status": "IN ERROR: Can't download the artefact com.euroscript.gcm.bpm:gcm-app-mds:8.3.8.0-RC4"
+    "deployed": true,
+    "status": "OK"
   }],
   "soa":   [
         {
