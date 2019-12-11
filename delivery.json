@@ -1,13 +1,14 @@
 {"delivery": {
+  "deployed": false,
+  "soa": [  {
+    "id": "Z2NtLXJlbGVhc2U6NzZkN2Q3ZTQxODZhMzkwZjU0MDVjMDMzNjNmYTZjMTc",
+    "repository": "gcm-release",
+    "format": "maven2",
+    "group": "com.euroscript.gcm.bpm",
+    "name": "gcm-soa-sapcustomer",
+    "version": "8.3.8.0-RC3",
+    "downloaded": true,
     "deployed": false,
-    "soa":     [
-                {
-            "id": "Z2NtLXJlbGVhc2U6NzZkN2Q3ZTQxODZhMzkwZjU0MDVjMDMzNjNmYTZjMTc",
-      "repository": "gcm-release",
-      "format": "maven2",
-      "group": "com.euroscript.gcm.bpm",
-      "name": "gcm-soa-sapcustomer",
-      "version": "8.3.8.0-RC3",
-        }
-    ]
-}}  
+    "status": "IN ERROR: Can't deployed the artefact com.euroscript.gcm.bpm:gcm-soa-sapcustomer:8.3.8.0-RC3"
+  }]
+}}
