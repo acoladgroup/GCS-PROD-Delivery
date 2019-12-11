@@ -93,9 +93,7 @@
       "group": "com.euroscript.gcm.bpm",
       "name": "gcm-soa-sapcustomer",
       "version": "8.3.8.0-RC3",
-      "downloaded": true,
-      "deployed": true,
-      "status": "OK",
+
       "redeployedStatus": true
     },
         {
