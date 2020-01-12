@@ -7,9 +7,6 @@
     "group": "com.euroscript.gcm.application",
     "name": "GCMApp",
     "version": "8.3.9.0-RC10",
-    "downloaded": true,
-    "deployed": false,
-    "status": "IN ERROR: Can't deployed the artefact com.euroscript.gcm.application:GCMApp:8.3.9.0-RC10"
   }],
   "osb":   [
         {
