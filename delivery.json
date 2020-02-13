@@ -1,14 +1,14 @@
-{
-	"delivery": {
-		"soa": [
-			{
-				"id": "Z2NtLXJlbGVhc2U6MWM3ODdhMDNkYjgyMDllYmIyMGE1MjFhNjVhNzRkMDA",
-				"repository": "gcm-release",
-				"format": "maven2",
-				"group": "com.amplexor.rikai.soa",
-				"name": "sap-sales",
-				"version": "8.3.9.8-RC1"
-			}
-		]
-	}
-}
+{"delivery": {
+  "soa": [  {
+    "id": "Z2NtLXJlbGVhc2U6MWM3ODdhMDNkYjgyMDllYmIyMGE1MjFhNjVhNzRkMDA",
+    "repository": "gcm-release",
+    "format": "maven2",
+    "group": "com.amplexor.rikai.soa",
+    "name": "sap-sales",
+    "version": "8.3.9.8-RC1",
+    "downloaded": true,
+    "deployed": true,
+    "status": "OK"
+  }],
+  "deployed": true
+}}
