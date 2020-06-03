@@ -1,5 +1,5 @@
 {"delivery": {
-  "deployed": false,
+  "deployed": true,
   "adf_app": [  {
     "id": "Z2NtLXJlbGVhc2U6NzZkN2Q3ZTQxODZhMzkwZjdhMTFkZjg1ZDAxMTU0YTU",
     "repository": "gcm-release",
@@ -56,8 +56,8 @@
     "name": "mds",
     "version": "9.0.1.4-RC1",
     "downloaded": false,
-    "deployed": false,
-    "status": "IN ERROR: Can't download the artefact com.amplexor.rikai.soa:mds:9.0.1.4-RC1"
+    "deployed": true,
+    "status": "OK"
   }],
   "soa":   [
         {
