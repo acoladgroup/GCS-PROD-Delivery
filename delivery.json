@@ -1,5 +1,5 @@
 {"delivery": {
-  "deployed": false,
+  "deployed": true,
   "adf_app": [  {
     "id": "Z2NtLXJlbGVhc2U6MWM3ODdhMDNkYjgyMDllYmU2NTBiYzQxNzczMzU3MmM",
     "repository": "gcm-release",
@@ -45,7 +45,8 @@
     "version": "9.0.2.0-RC9",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "osb":   [
         {
@@ -57,7 +58,8 @@
       "version": "9.0.2.0-RC3",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     },
         {
       "id": "Z2NtLXJlbGVhc2U6ZGZiZWYwOWVmZTE2NDRlYTcwOGNiZTdlNzUwY2RmOTc",
@@ -81,7 +83,8 @@
     "version": "9.0.2.0-RC1",
     "downloaded": false,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "soa":   [
         {
@@ -92,8 +95,8 @@
       "name": "sap-sales",
       "version": "9.0.2.0-RC6",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.soa:sap-sales:9.0.2.0-RC6"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6Y2Y2MDZmODI1NjBlYTkwNmJhNDU5MTU0OTNlZmRlY2M",
@@ -103,8 +106,8 @@
       "name": "task-common",
       "version": "9.0.2.0-RC3",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.soa:task-common:9.0.2.0-RC3"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6MWM3ODdhMDNkYjgyMDllYjhkNWI3MzZlOTIwZDFiMWQ",
@@ -114,8 +117,8 @@
       "name": "workunit-common",
       "version": "9.0.2.0-RC8",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.soa:workunit-common:9.0.2.0-RC8"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6NzZkN2Q3ZTQxODZhMzkwZmMzOWNhNTU0NmQwZDI1MGI",
@@ -125,8 +128,8 @@
       "name": "sap-vendor",
       "version": "9.0.2.0-RC4",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.soa:sap-vendor:9.0.2.0-RC4"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6NzZkN2Q3ZTQxODZhMzkwZjJhMTRjN2JkMWMyZTA4Nzg",
@@ -137,7 +140,8 @@
       "version": "9.0.2.0-RC3",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     },
         {
       "id": "Z2NtLXJlbGVhc2U6NzZkN2Q3ZTQxODZhMzkwZjNjNDk0ZmI4NmNjOWMwOTA",
@@ -148,7 +152,8 @@
       "version": "9.0.2.0-RC5",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     },
         {
       "id": "Z2NtLXJlbGVhc2U6MWM3ODdhMDNkYjgyMDllYjRjYmVkMDAyMTYyM2M0ODA",
@@ -159,7 +164,8 @@
       "version": "9.0.2.0-RC5",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     }
   ]
 }}
