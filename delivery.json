@@ -9,7 +9,8 @@
     "version": "9.0.2.0-RC9",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "adf_dmws": [  {
     "id": "Z2NtLXJlbGVhc2U6Y2Y2MDZmODI1NjBlYTkwNjU0ODJlNjE0NTY2NmEzZGE",
@@ -20,7 +21,8 @@
     "version": "9.0.2.0-RC9",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "adf_dmrestws": [  {
     "id": "Z2NtLXJlbGVhc2U6MWM3ODdhMDNkYjgyMDllYjA3OTA0Mjg2N2Q1NDJjODM",
@@ -31,7 +33,8 @@
     "version": "9.0.2.0-RC9",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "adf_pmws": [  {
     "id": "Z2NtLXJlbGVhc2U6NzZkN2Q3ZTQxODZhMzkwZjY1YWViZWEwMGNiM2Y0MDY",
@@ -41,8 +44,8 @@
     "name": "PMWebServicesEAR",
     "version": "9.0.2.0-RC9",
     "downloaded": true,
-    "deployed": false,
-    "status": "IN ERROR: Can't deployed the artefact com.euroscript.gcm.application.modules:PMWebServicesEAR:9.0.2.0-RC9"
+    "deployed": true,
+    "status": "OK"
   }],
   "osb":   [
         {
@@ -53,8 +56,8 @@
       "name": "task-sb",
       "version": "9.0.2.0-RC3",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.osb:task-sb:9.0.2.0-RC3"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6ZGZiZWYwOWVmZTE2NDRlYTcwOGNiZTdlNzUwY2RmOTc",
@@ -65,7 +68,8 @@
       "version": "9.0.2.0-RC1",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     }
   ],
   "soa_mds": [  {
@@ -76,8 +80,8 @@
     "name": "mds",
     "version": "9.0.2.0-RC1",
     "downloaded": false,
-    "deployed": false,
-    "status": "IN ERROR: Can't download the artefact com.amplexor.rikai.soa:mds:9.0.2.0-RC1"
+    "deployed": true,
+    "status": "OK"
   }],
   "soa":   [
         {
@@ -132,8 +136,8 @@
       "name": "default-workunit",
       "version": "9.0.2.0-RC3",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.soa:default-workunit:9.0.2.0-RC3"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6NzZkN2Q3ZTQxODZhMzkwZjNjNDk0ZmI4NmNjOWMwOTA",
@@ -143,8 +147,8 @@
       "name": "human-task-events",
       "version": "9.0.2.0-RC5",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.soa:human-task-events:9.0.2.0-RC5"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6MWM3ODdhMDNkYjgyMDllYjRjYmVkMDAyMTYyM2M0ODA",
@@ -154,8 +158,8 @@
       "name": "bpm-assistance",
       "version": "9.0.2.0-RC5",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.soa:bpm-assistance:9.0.2.0-RC5"
+      "deployed": true,
+      "status": "OK"
     }
   ]
 }}
