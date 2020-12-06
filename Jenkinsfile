@@ -720,7 +720,7 @@ def buildTable(listOfItems) {
 
 
 pipeline {
-    agent  { node { label 'slaveci11' } }
+    agent  { node { label 'alt' } }
     parameters {
         booleanParam(name: "Dry run ?", description: "Be careful, if you check this option the composite will be deployed", defaultValue: true)
     }
