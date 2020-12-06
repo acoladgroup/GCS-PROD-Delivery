@@ -1,5 +1,5 @@
 {"delivery": {
-  "deployed": false,
+  "deployed": true,
   "adf_app": [  {
     "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYTgwYjU0M2I2YWY0OTMzNzQ",
     "repository": "gcm-release",
@@ -9,7 +9,8 @@
     "version": "9.1.0.0-RC6",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "adf_dmws": [  {
     "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYTc2YjUyYWVmN2YzNTgzODE",
@@ -20,7 +21,8 @@
     "version": "9.1.0.0-RC6",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "adf_dmrestws": [  {
     "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MGQ4ZWM4ZDYzNmZjZTdhOGU",
@@ -31,7 +33,8 @@
     "version": "9.1.0.0-RC6",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "adf_pmws": [  {
     "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNGM0MmVhMzdkMjVhMmNiNDQ",
@@ -42,7 +45,8 @@
     "version": "9.1.0.0-RC6",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "adf_accounts": [  {
     "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMTQ0ZjI5OTFkZDBhMDg3MjU",
@@ -53,7 +57,8 @@
     "version": "9.1.0.0-RC6",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "osb":   [
         {
@@ -63,9 +68,9 @@
       "group": "com.amplexor.rikai.osb",
       "name": "gcm-sb",
       "version": "9.1.0.0-RC3",
-      "downloaded": false,
-      "deployed": false,
-      "status": "IN ERROR: Can't download the artefact com.amplexor.rikai.osb:gcm-sb:9.1.0.0-RC3"
+      "downloaded": true,
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MGU3Y2RlNWI4MTM5OGVjOGQ",
@@ -74,9 +79,9 @@
       "group": "com.amplexor.rikai.osb",
       "name": "xtm-sb",
       "version": "9.1.0.0-RC1",
-      "downloaded": false,
-      "deployed": false,
-      "status": "IN ERROR: Can't download the artefact com.amplexor.rikai.osb:xtm-sb:9.1.0.0-RC1"
+      "downloaded": true,
+      "deployed": true,
+      "status": "OK"
     }
   ],
   "soa":   [
@@ -87,9 +92,9 @@
       "group": "com.amplexor.rikai.soa",
       "name": "xtm-project",
       "version": "9.1.0.0-RC3",
-      "downloaded": false,
-      "deployed": false,
-      "status": "IN ERROR: Can't download the artefact com.amplexor.rikai.soa:xtm-project:9.1.0.0-RC3"
+      "downloaded": true,
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNGE3NmQyNTkwNzRhZDdhOWQ",
@@ -98,9 +103,9 @@
       "group": "com.amplexor.rikai.soa",
       "name": "ucm-delivery-copy-caller",
       "version": "9.1.0.0-RC3",
-      "downloaded": false,
-      "deployed": false,
-      "status": "IN ERROR: Can't download the artefact com.amplexor.rikai.soa:ucm-delivery-copy-caller:9.1.0.0-RC3"
+      "downloaded": true,
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMWY0YjU2ODZlMTYxMDU4YzU",
@@ -109,9 +114,9 @@
       "group": "com.amplexor.rikai.soa",
       "name": "sap-sales",
       "version": "9.1.0.0-RC4",
-      "downloaded": false,
-      "deployed": false,
-      "status": "IN ERROR: Can't download the artefact com.amplexor.rikai.soa:sap-sales:9.1.0.0-RC4"
+      "downloaded": true,
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMWZiMDczNTJmNjJkNDJjN2Y",
@@ -122,7 +127,8 @@
       "version": "9.1.0.0-RC4",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     }
   ],
   "orchestrator":   [
@@ -135,7 +141,8 @@
       "version": "9.1.0.0-RC1",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     },
         {
       "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MGVkNzU2NTIwMWYzMTZlNDg",
@@ -145,8 +152,8 @@
       "name": "orchestrator-common",
       "version": "9.1.0.0-RC1",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.gcs.orchestrator:orchestrator-common:9.1.0.0-RC1"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYTI4N2U2OTg2NTRjNzAxM2M",
@@ -156,8 +163,8 @@
       "name": "orchestrator-xtm",
       "version": "9.1.0.0-RC1",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.gcs.orchestrator:orchestrator-xtm:9.1.0.0-RC1"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNDQ5MTliMzljZDk2NjI2NGI",
@@ -167,8 +174,8 @@
       "name": "orchestrator-delivery",
       "version": "9.1.0.0-RC4",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.gcs.orchestrator:orchestrator-delivery:9.1.0.0-RC4"
+      "deployed": true,
+      "status": "OK"
     }
   ]
 }}
