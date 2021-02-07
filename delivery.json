@@ -1,5 +1,5 @@
 {"delivery": {
-  "deployed": false,
+  "deployed": true,
   "adf_app": [  {
     "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMWU2ZWE1YjNkNDRmNTM0MTY",
     "repository": "gcm-release",
@@ -8,8 +8,8 @@
     "name": "GCMApp",
     "version": "9.1.2.0-RC8",
     "downloaded": true,
-    "deployed": false,
-    "status": "IN ERROR: Can't deployed the artefact com.euroscript.gcm.application:GCMApp:9.1.2.0-RC8"
+    "deployed": true,
+    "status": "OK"
   }],
   "adf_dmws": [  {
     "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMTFiYmZmODIyY2NiODllZWE",
@@ -19,8 +19,8 @@
     "name": "DMWebServicesEAR",
     "version": "9.1.2.0-RC8",
     "downloaded": true,
-    "deployed": false,
-    "status": "IN ERROR: Can't deployed the artefact com.euroscript.gcm.application.modules:DMWebServicesEAR:9.1.2.0-RC8"
+    "deployed": true,
+    "status": "OK"
   }],
   "adf_dmrestws": [  {
     "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNDY5MTcwMzVlZmYzMjc5ZTg",
@@ -30,8 +30,8 @@
     "name": "DMWebServicesRESTEAR",
     "version": "9.1.2.0-RC8",
     "downloaded": true,
-    "deployed": false,
-    "status": "IN ERROR: Can't deployed the artefact com.euroscript.gcm.application.modules:DMWebServicesRESTEAR:9.1.2.0-RC8"
+    "deployed": true,
+    "status": "OK"
   }],
   "adf_pmws": [  {
     "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MDZkMDcwNjMzZjMwNmE4MzU",
@@ -41,8 +41,8 @@
     "name": "PMWebServicesEAR",
     "version": "9.1.2.0-RC8",
     "downloaded": true,
-    "deployed": false,
-    "status": "IN ERROR: Can't deployed the artefact com.euroscript.gcm.application.modules:PMWebServicesEAR:9.1.2.0-RC8"
+    "deployed": true,
+    "status": "OK"
   }],
   "adf_accounts": [  {
     "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYTNmYzY4MjA0Y2ExNWQ5YjM",
@@ -52,8 +52,8 @@
     "name": "GCMAppAccountsEar",
     "version": "9.1.2.0-RC8",
     "downloaded": true,
-    "deployed": false,
-    "status": "IN ERROR: Can't deployed the artefact com.euroscript.gcm.application:GCMAppAccountsEar:9.1.2.0-RC8"
+    "deployed": true,
+    "status": "OK"
   }],
   "osb":   [
         {
@@ -64,8 +64,8 @@
       "name": "sap-sb",
       "version": "9.1.2.0-RC7",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.osb:sap-sb:9.1.2.0-RC7"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYTQ2OGYxYTZlYTg0YmY1NzU",
@@ -75,8 +75,8 @@
       "name": "xtm-sb",
       "version": "9.1.2.0-RC2",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.osb:xtm-sb:9.1.2.0-RC2"
+      "deployed": true,
+      "status": "OK"
     }
   ],
   "soa_mds": [],
@@ -89,8 +89,8 @@
       "name": "workunit-engine",
       "version": "9.1.2.0-RC1",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.soa:workunit-engine:9.1.2.0-RC1"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMTQ0MDk1Y2M4Nzk0MzBlMDY",
@@ -99,9 +99,9 @@
       "group": "com.amplexor.rikai.soa",
       "name": "xtm-cleanup",
       "version": "9.1.2.0-RC1",
-      "downloaded": false,
-      "deployed": false,
-      "status": "IN ERROR: Can't download the artefact com.amplexor.rikai.soa:xtm-cleanup:9.1.2.0-RC1"
+      "downloaded": true,
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNGE2MmJhN2EzZWQ0YTU5ZWU",
@@ -110,9 +110,9 @@
       "group": "com.amplexor.rikai.soa",
       "name": "default-workunit",
       "version": "9.1.2.0-RC1",
-      "downloaded": false,
-      "deployed": false,
-      "status": "IN ERROR: Can't download the artefact com.amplexor.rikai.soa:default-workunit:9.1.2.0-RC1"
+      "downloaded": true,
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MDA1NWJjMjcxMWY1Y2I4ZjU",
@@ -121,9 +121,9 @@
       "group": "com.amplexor.rikai.soa",
       "name": "xtm-soa-setup",
       "version": "9.1.2.0-RC1",
-      "downloaded": false,
-      "deployed": false,
-      "status": "IN ERROR: Can't download the artefact com.amplexor.rikai.soa:xtm-soa-setup:9.1.2.0-RC1"
+      "downloaded": true,
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMWFjMDAwZGM1YmQyMzk4Yzk",
@@ -133,8 +133,8 @@
       "name": "xtm-setup",
       "version": "9.1.2.0-RC1",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.soa:xtm-setup:9.1.2.0-RC1"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNGU2MTk0ZGI1OTU3ZjA4MGU",
@@ -144,8 +144,8 @@
       "name": "automatic-delivery",
       "version": "9.1.2.0-RC1",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.soa:automatic-delivery:9.1.2.0-RC1"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MDU1MmE3NjQ3MzA5ZGE3ZGY",
@@ -155,8 +155,8 @@
       "name": "workunit-check-at-start",
       "version": "9.1.2.0-RC5",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.soa:workunit-check-at-start:9.1.2.0-RC5"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYWZlZmVmODkzNTM3ZjM5NDc",
@@ -166,8 +166,8 @@
       "name": "human-task-events",
       "version": "9.1.2.0-RC7",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.soa:human-task-events:9.1.2.0-RC7"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMTFhMzZlOWYwMjViMWM3OWQ",
@@ -177,8 +177,8 @@
       "name": "workunit-common",
       "version": "9.1.2.0-RC9",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.soa:workunit-common:9.1.2.0-RC9"
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMTI0ZjJjMzRiZGQ5NjgwMzU",
@@ -188,8 +188,8 @@
       "name": "ucm-delivery-copy-caller",
       "version": "9.1.2.0-RC11",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.rikai.soa:ucm-delivery-copy-caller:9.1.2.0-RC11"
+      "deployed": true,
+      "status": "OK"
     }
   ],
   "orchestrator":   [
@@ -202,7 +202,8 @@
       "version": "9.1.2.0-RC9",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     },
         {
       "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYTY1NzBjYzhkOTEzMmRkOGI",
@@ -213,7 +214,8 @@
       "version": "9.1.2.0-RC9",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     },
         {
       "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MDFlOWRlNTI5MDE1ODdlZjc",
@@ -224,7 +226,8 @@
       "version": "9.1.2.0-RC9",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     },
         {
       "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNDY5MGFkNDI5ZTE3NWNkYWE",
@@ -235,7 +238,8 @@
       "version": "9.1.2.0-RC9",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     },
         {
       "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYWM1N2E1NTE0MmM1MzAxYmM",
@@ -246,7 +250,8 @@
       "version": "9.1.2.0-RC9",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     },
         {
       "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MDZiOGVkZDcxYmQ4ZjlkZGI",
@@ -257,7 +262,8 @@
       "version": "9.1.2.0-RC9",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     }
   ]
 }}
