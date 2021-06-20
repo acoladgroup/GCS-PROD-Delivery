@@ -1,5 +1,5 @@
 {"delivery": {
-  "deployed": false,
+  "deployed": true,
   "adf_app": [  {
     "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNGZmZTAyNjk1ZWI1YzQ0NjA",
     "repository": "gcm-release",
@@ -9,7 +9,8 @@
     "version": "9.1.7.0-RC4",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "adf_dmws": [  {
     "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMTJkMzA3NWEyYjJhMTE1MmY",
@@ -20,7 +21,8 @@
     "version": "9.1.7.0-RC4",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "adf_dmrestws": [  {
     "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNDkzYWRjMzZlNTE1MTAyYmU",
@@ -31,7 +33,8 @@
     "version": "9.1.7.0-RC4",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "adf_pmws": [  {
     "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MDcxNTBkMTQ5NDUyNWM5NTE",
@@ -42,7 +45,8 @@
     "version": "9.1.7.0-RC4",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "adf_accounts": [  {
     "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYWVlZTUwMTkxZjc3Mjg4YmI",
@@ -53,7 +57,8 @@
     "version": "9.1.7.0-RC4",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "osb": [  {
     "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MDkwNjE4NDBiZDY2N2MwNzU",
@@ -64,7 +69,8 @@
     "version": "9.1.7.0-RC3",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "soa_mds": [],
   "soa":   [
@@ -77,7 +83,8 @@
       "version": "9.1.7.0-RC3",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     },
         {
       "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MGQ5NzlhYzIwMDYzOGE2OTY",
@@ -88,7 +95,8 @@
       "version": "9.1.7.0-RC3",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     },
         {
       "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNGYyMDZmOTU0ZjNlMjgxMDk",
@@ -97,8 +105,8 @@
       "group": "com.euroscript.xtm",
       "name": "xtm-soa",
       "version": "9.1.7.0-RC4",
-      "downloaded": false,
-      "deployed": false,
+      "downloaded": true,
+      "deployed": true,
       "status": "OK"
     }
   ],
@@ -112,7 +120,8 @@
       "version": "9.1.7.0-RC3",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     },
         {
       "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMTU0NmI2ZjNhMzI2NGM2NWQ",
@@ -123,7 +132,8 @@
       "version": "9.1.7.0-RC2",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     },
         {
       "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNDI4YTUxNDBiM2JhODI4MWQ",
@@ -134,7 +144,8 @@
       "version": "9.1.7.0-RC4",
       "downloaded": true,
       "deployed": true,
-      "status": "OK"
+      "status": "OK",
+      "redeployedStatus": true
     }
   ]
 }}
