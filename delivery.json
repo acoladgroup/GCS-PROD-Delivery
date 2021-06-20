@@ -1,5 +1,5 @@
 {"delivery": {
-  "deployed": true,
+  "deployed": false,
   "adf_app": [  {
     "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNGZmZTAyNjk1ZWI1YzQ0NjA",
     "repository": "gcm-release",
@@ -96,9 +96,9 @@
       "format": "maven2",
       "group": "com.euroscript.xtm",
       "name": "xtm-soa",
-      "version": "9.1.7.0-RC3",
-      "downloaded": true,
-      "deployed": true,
+      "version": "9.1.7.0-RC4",
+      "downloaded": false,
+      "deployed": false,
       "status": "OK"
     }
   ],
