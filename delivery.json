@@ -1,5 +1,5 @@
 {"delivery": {
-  "deployed": false,
+  "deployed": true,
   "adf_app": [  {
     "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMWQyNGM4NzNiMWU3ZGZmNmM",
     "repository": "gcm-release",
@@ -156,8 +156,8 @@
       "name": "orchestrator-workunit",
       "version": "9.1.8.0-RC8",
       "downloaded": true,
-      "deployed": false,
-      "status": "IN ERROR: Can't deployed the artefact com.amplexor.gcs.orchestrator:orchestrator-workunit:9.1.8.0-RC8"
+      "deployed": true,
+      "status": "OK"
     }
   ]
 }}
