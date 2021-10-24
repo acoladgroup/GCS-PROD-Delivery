@@ -1,12 +1,15 @@
 {"delivery": {
-  "deployed": false,
+  "deployed": true,
   "adf_app": [    {
     "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYWQ3YzY3MmI5Yjc1OTVkMTA",
     "repository": "gcm-release",
     "format": "maven2",
     "group": "com.euroscript.gcm.application",
     "name": "GCMApp",
-    "version": "9.2.1.0-RC2"
+    "version": "9.2.1.0-RC2",
+    "downloaded": true,
+    "deployed": true,
+    "status": "OK"
   }],
   "adf_dmws": [    {
     "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MGNiMThhZGQ4OTEyOGE0ZDc",
@@ -14,7 +17,10 @@
     "format": "maven2",
     "group": "com.euroscript.gcm.application.modules",
     "name": "DMWebServicesEAR",
-    "version": "9.2.1.0-RC2"
+    "version": "9.2.1.0-RC2",
+    "downloaded": true,
+    "deployed": true,
+    "status": "OK"
   }],
   "adf_dmrestws": [    {
     "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMTczN2JlNzc2NzQ0NWI0Mzg",
@@ -22,7 +28,10 @@
     "format": "maven2",
     "group": "com.euroscript.gcm.application.modules",
     "name": "DMWebServicesRESTEAR",
-    "version": "9.2.1.0-RC2"
+    "version": "9.2.1.0-RC2",
+    "downloaded": true,
+    "deployed": true,
+    "status": "OK"
   }],
   "adf_pmws": [    {
     "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYTYwYWFlZTY5ZTg0ZDYzODc",
@@ -38,7 +47,10 @@
     "format": "maven2",
     "group": "com.euroscript.gcm.application",
     "name": "GCMAppAccountsEar",
-    "version": "9.2.1.0-RC2"
+    "version": "9.2.1.0-RC2",
+    "downloaded": true,
+    "deployed": true,
+    "status": "OK"
   }],
   "osb": [],
   "soa_mds": [],
@@ -50,7 +62,10 @@
       "format": "maven2",
       "group": "com.amplexor.gcs.orchestrator",
       "name": "orchestrator-purchase-order",
-      "version": "9.2.1.0-RC1"
+      "version": "9.2.1.0-RC1",
+      "downloaded": true,
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYTJjODA3ZTU5MDhkMDk1M2M",
@@ -58,7 +73,10 @@
       "format": "maven2",
       "group": "com.amplexor.gcs.orchestrator",
       "name": "orchestrator-workunit",
-      "version": "9.2.1.0-RC1"
+      "version": "9.2.1.0-RC1",
+      "downloaded": true,
+      "deployed": true,
+      "status": "OK"
     },
         {
       "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMTlkYjExZWUyZjRkMGE1ZmQ",
@@ -66,7 +84,10 @@
       "format": "maven2",
       "group": "com.amplexor.gcs.orchestrator",
       "name": "orchestrator-sales",
-      "version": "9.2.1.0-RC4"
+      "version": "9.2.1.0-RC4",
+      "downloaded": true,
+      "deployed": true,
+      "status": "OK"
     }
   ]
 }}
