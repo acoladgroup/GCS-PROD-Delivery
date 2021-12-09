@@ -1,28 +1,32 @@
 {"delivery": {
-    "deployed": false,
-    "adf_app": [],
-    "adf_dmws": [],
-    "adf_dmrestws": [],
-    "adf_pmws": [],
-    "adf_accounts": [],
-    "osb": [],
-    "soa_mds": [],
-    "soa":     [
-                {
-            "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNDkzZGVjOTUzYzRkZjQ2MWM",
-            "repository": "gcm-release",
-            "format": "maven2",
-            "group": "com.euroscript.xtm",
-            "name": "xtm-soa",
-            "version": "9.2.1.2-RC1"
-        }
-    ],
-    "orchestrator": [    {
-        "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MDFmZWIxOWVlOTcyMmQ2ZWI",
-        "repository": "gcm-release",
-        "format": "maven2",
-        "group": "com.amplexor.gcs.orchestrator",
-        "name": "orchestrator-xtm",
-        "version": "9.2.1.2-RC1"
-    }]
+  "deployed": true,
+  "adf_app": [],
+  "adf_dmws": [],
+  "adf_dmrestws": [],
+  "adf_pmws": [],
+  "adf_accounts": [],
+  "osb": [],
+  "soa_mds": [],
+  "soa": [  {
+    "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNDkzZGVjOTUzYzRkZjQ2MWM",
+    "repository": "gcm-release",
+    "format": "maven2",
+    "group": "com.euroscript.xtm",
+    "name": "xtm-soa",
+    "version": "9.2.1.2-RC1",
+    "downloaded": true,
+    "deployed": true,
+    "status": "OK"
+  }],
+  "orchestrator": [  {
+    "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MDFmZWIxOWVlOTcyMmQ2ZWI",
+    "repository": "gcm-release",
+    "format": "maven2",
+    "group": "com.amplexor.gcs.orchestrator",
+    "name": "orchestrator-xtm",
+    "version": "9.2.1.2-RC1",
+    "downloaded": true,
+    "deployed": true,
+    "status": "OK"
+  }]
 }}
