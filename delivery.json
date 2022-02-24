@@ -1,19 +1,22 @@
 {"delivery": {
-    "deployed": false,
-    "adf_app": [],
-    "adf_dmws": [],
-    "adf_dmrestws": [],
-    "adf_pmws": [],
-    "adf_accounts": [],
-    "osb": [],
-    "soa_mds": [],
-    "soa": [],
-    "orchestrator": [    {
-        "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMTFiYzkxN2VkYjNmOTFiMzk",
-        "repository": "gcm-release",
-        "format": "maven2",
-        "group": "com.amplexor.gcs.orchestrator",
-        "name": "orchestrator-workunit",
-        "version": "9.2.2.2-RC1"
-    }]
+  "deployed": true,
+  "adf_app": [],
+  "adf_dmws": [],
+  "adf_dmrestws": [],
+  "adf_pmws": [],
+  "adf_accounts": [],
+  "osb": [],
+  "soa_mds": [],
+  "soa": [],
+  "orchestrator": [  {
+    "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMTFiYzkxN2VkYjNmOTFiMzk",
+    "repository": "gcm-release",
+    "format": "maven2",
+    "group": "com.amplexor.gcs.orchestrator",
+    "name": "orchestrator-workunit",
+    "version": "9.2.2.2-RC1",
+    "downloaded": true,
+    "deployed": true,
+    "status": "OK"
+  }]
 }}
