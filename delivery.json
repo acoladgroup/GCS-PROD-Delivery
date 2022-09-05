@@ -1,47 +1,62 @@
 {"delivery": {
-    "deployed": false,
-    "adf_app": [    {
-        "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNDU0YWU4ODQ4NDQ3NjhiZmM",
-        "repository": "gcm-release",
-        "format": "maven2",
-        "group": "com.euroscript.gcm.application",
-        "name": "GCMApp",
-        "version": "9.2.2.5-RC2"
-    }],
-    "adf_dmws": [    {
-        "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMWEyNDQwN2IxZjcyOGRiNDE",
-        "repository": "gcm-release",
-        "format": "maven2",
-        "group": "com.euroscript.gcm.application.modules",
-        "name": "DMWebServicesEAR",
-        "version": "9.2.2.5-RC2"
-    }],
-    "adf_dmrestws": [    {
-        "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNGQwOTc5NjcyMGYxYWFmYTM",
-        "repository": "gcm-release",
-        "format": "maven2",
-        "group": "com.euroscript.gcm.application.modules",
-        "name": "DMWebServicesRESTEAR",
-        "version": "9.2.2.5-RC2"
-    }],
-    "adf_pmws": [    {
-        "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MGQ4N2VjZjI0ZTA5ZDJiZWM",
-        "repository": "gcm-release",
-        "format": "maven2",
-        "group": "com.euroscript.gcm.application.modules",
-        "name": "PMWebServicesEAR",
-        "version": "9.2.2.5-RC2"
-    }],
-    "adf_accounts": [    {
-        "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYWI4NWUxNjMzYjg0ZWIxNmE",
-        "repository": "gcm-release",
-        "format": "maven2",
-        "group": "com.euroscript.gcm.application",
-        "name": "GCMAppAccountsEar",
-        "version": "9.2.2.5-RC2"
-    }],
-    "osb": [],
-    "soa_mds": [],
-    "soa": [],
-    "orchestrator": []
+  "deployed": true,
+  "adf_app": [  {
+    "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNDU0YWU4ODQ4NDQ3NjhiZmM",
+    "repository": "gcm-release",
+    "format": "maven2",
+    "group": "com.euroscript.gcm.application",
+    "name": "GCMApp",
+    "version": "9.2.2.5-RC2",
+    "downloaded": true,
+    "deployed": true,
+    "status": "OK"
+  }],
+  "adf_dmws": [  {
+    "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMWEyNDQwN2IxZjcyOGRiNDE",
+    "repository": "gcm-release",
+    "format": "maven2",
+    "group": "com.euroscript.gcm.application.modules",
+    "name": "DMWebServicesEAR",
+    "version": "9.2.2.5-RC2",
+    "downloaded": true,
+    "deployed": true,
+    "status": "OK"
+  }],
+  "adf_dmrestws": [  {
+    "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNGQwOTc5NjcyMGYxYWFmYTM",
+    "repository": "gcm-release",
+    "format": "maven2",
+    "group": "com.euroscript.gcm.application.modules",
+    "name": "DMWebServicesRESTEAR",
+    "version": "9.2.2.5-RC2",
+    "downloaded": true,
+    "deployed": true,
+    "status": "OK"
+  }],
+  "adf_pmws": [  {
+    "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MGQ4N2VjZjI0ZTA5ZDJiZWM",
+    "repository": "gcm-release",
+    "format": "maven2",
+    "group": "com.euroscript.gcm.application.modules",
+    "name": "PMWebServicesEAR",
+    "version": "9.2.2.5-RC2",
+    "downloaded": true,
+    "deployed": true,
+    "status": "OK"
+  }],
+  "adf_accounts": [  {
+    "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYWI4NWUxNjMzYjg0ZWIxNmE",
+    "repository": "gcm-release",
+    "format": "maven2",
+    "group": "com.euroscript.gcm.application",
+    "name": "GCMAppAccountsEar",
+    "version": "9.2.2.5-RC2",
+    "downloaded": true,
+    "deployed": true,
+    "status": "OK"
+  }],
+  "osb": [],
+  "soa_mds": [],
+  "soa": [],
+  "orchestrator": []
 }}
