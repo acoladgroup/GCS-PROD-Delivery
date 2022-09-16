@@ -1,13 +1,47 @@
 {"delivery": {
     "deployed": false,
-    "spring":     [
-                {
-            "id": "Z2NtLXJlbGVhc2U6ZGZiZWYwOWVmZTE2NDRlYTc2MWU1MWEwZjQyOTM5Yjc",
-            "repository": "gcm-release",
-            "format": "maven2",
-            "group": "com.amplexor.gcs.cloud.service",
-            "name": "service-test",
-            "version" : "3.0.1.0-RC1"
-        }
-    ]
-}}  
+    "adf_app": [    {
+        "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYWYwZDE5YjllNGI4YTA1YWY",
+        "repository": "gcm-release",
+        "format": "maven2",
+        "group": "com.euroscript.gcm.application",
+        "name": "GCMApp",
+        "version": "9.2.2.6-RC1"
+    }],
+    "adf_dmws": [    {
+        "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNGU3MDM2YWVlODAyZmRkMjk",
+        "repository": "gcm-release",
+        "format": "maven2",
+        "group": "com.euroscript.gcm.application.modules",
+        "name": "DMWebServicesEAR",
+        "version": "9.2.2.6-RC1"
+    }],
+    "adf_dmrestws": [    {
+        "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYTk2MTc5ZjIwYmZiYjM2N2Y",
+        "repository": "gcm-release",
+        "format": "maven2",
+        "group": "com.euroscript.gcm.application.modules",
+        "name": "DMWebServicesRESTEAR",
+        "version": "9.2.2.6-RC1"
+    }],
+    "adf_pmws": [    {
+        "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMWI2M2I0YmQwMGMwZjQzY2E",
+        "repository": "gcm-release",
+        "format": "maven2",
+        "group": "com.euroscript.gcm.application.modules",
+        "name": "PMWebServicesEAR",
+        "version": "9.2.2.6-RC1"
+    }],
+    "adf_accounts": [    {
+        "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MGFjMzQ4MWM2ZTVkM2M1OTM",
+        "repository": "gcm-release",
+        "format": "maven2",
+        "group": "com.euroscript.gcm.application",
+        "name": "GCMAppAccountsEar",
+        "version": "9.2.2.6-RC1"
+    }],
+    "osb": [],
+    "soa_mds": [],
+    "soa": [],
+    "orchestrator": []
+}}
