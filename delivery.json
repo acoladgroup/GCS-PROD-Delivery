@@ -20,7 +20,8 @@
     "version": "9.2.2.6-RC1",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "adf_dmrestws": [  {
     "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYTk2MTc5ZjIwYmZiYjM2N2Y",
@@ -31,7 +32,8 @@
     "version": "9.2.2.6-RC1",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "adf_pmws": [  {
     "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMWI2M2I0YmQwMGMwZjQzY2E",
@@ -42,7 +44,8 @@
     "version": "9.2.2.6-RC1",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "adf_accounts": [  {
     "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MGFjMzQ4MWM2ZTVkM2M1OTM",
@@ -53,7 +56,8 @@
     "version": "9.2.2.6-RC1",
     "downloaded": true,
     "deployed": true,
-    "status": "OK"
+    "status": "OK",
+    "redeployedStatus": true
   }],
   "osb": [],
   "soa_mds": [],
