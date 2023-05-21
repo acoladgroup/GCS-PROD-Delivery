@@ -1,47 +1,62 @@
 {"delivery": {
+  "deployed": false,
+  "adf_app": [  {
+    "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMWNiMzg4NGY5M2JhNzdkMmU",
+    "repository": "gcm-release",
+    "format": "maven2",
+    "group": "com.euroscript.gcm.application",
+    "name": "GCMApp",
+    "version": "9.2.3.0-RC1",
+    "downloaded": true,
     "deployed": false,
-    "adf_app": [    {
-        "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMWNiMzg4NGY5M2JhNzdkMmU",
-        "repository": "gcm-release",
-        "format": "maven2",
-        "group": "com.euroscript.gcm.application",
-        "name": "GCMApp",
-        "version": "9.2.3.0-RC1"
-    }],
-    "adf_dmws": [    {
-        "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MGRhNjcyOWU0YmQ5ZTQ3NTM",
-        "repository": "gcm-release",
-        "format": "maven2",
-        "group": "com.euroscript.gcm.application.modules",
-        "name": "DMWebServicesEAR",
-        "version": "9.2.3.0-RC1"
-    }],
-    "adf_dmrestws": [    {
-        "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMWMzMTMyYjZhNGFlNWNiNzc",
-        "repository": "gcm-release",
-        "format": "maven2",
-        "group": "com.euroscript.gcm.application.modules",
-        "name": "DMWebServicesRESTEAR",
-        "version": "9.2.3.0-RC1"
-    }],
-    "adf_pmws": [    {
-        "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYTNkMDFlOWM5ZWQ5MmJjYWI",
-        "repository": "gcm-release",
-        "format": "maven2",
-        "group": "com.euroscript.gcm.application.modules",
-        "name": "PMWebServicesEAR",
-        "version": "9.2.3.0-RC1"
-    }],
-    "adf_accounts": [    {
-        "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNDE3NGVlZDhkYTBhZjg5Mjk",
-        "repository": "gcm-release",
-        "format": "maven2",
-        "group": "com.euroscript.gcm.application",
-        "name": "GCMAppAccountsEar",
-        "version": "9.2.3.0-RC1"
-    }],
-    "osb": [],
-    "soa_mds": [],
-    "soa": [],
-    "orchestrator": []
+    "status": "IN ERROR: Can't deployed the artefact com.euroscript.gcm.application:GCMApp:9.2.3.0-RC1"
+  }],
+  "adf_dmws": [  {
+    "id": "Z2NtLXJlbGVhc2U6Yzg2MzUzOGEwNjA3MTg2MGRhNjcyOWU0YmQ5ZTQ3NTM",
+    "repository": "gcm-release",
+    "format": "maven2",
+    "group": "com.euroscript.gcm.application.modules",
+    "name": "DMWebServicesEAR",
+    "version": "9.2.3.0-RC1",
+    "downloaded": true,
+    "deployed": false,
+    "status": "IN ERROR: Can't deployed the artefact com.euroscript.gcm.application.modules:DMWebServicesEAR:9.2.3.0-RC1"
+  }],
+  "adf_dmrestws": [  {
+    "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMWMzMTMyYjZhNGFlNWNiNzc",
+    "repository": "gcm-release",
+    "format": "maven2",
+    "group": "com.euroscript.gcm.application.modules",
+    "name": "DMWebServicesRESTEAR",
+    "version": "9.2.3.0-RC1",
+    "downloaded": true,
+    "deployed": false,
+    "status": "IN ERROR: Can't deployed the artefact com.euroscript.gcm.application.modules:DMWebServicesRESTEAR:9.2.3.0-RC1"
+  }],
+  "adf_pmws": [  {
+    "id": "Z2NtLXJlbGVhc2U6YTFmM2VkZDhlMWIwNmNmYTNkMDFlOWM5ZWQ5MmJjYWI",
+    "repository": "gcm-release",
+    "format": "maven2",
+    "group": "com.euroscript.gcm.application.modules",
+    "name": "PMWebServicesEAR",
+    "version": "9.2.3.0-RC1",
+    "downloaded": true,
+    "deployed": false,
+    "status": "IN ERROR: Can't deployed the artefact com.euroscript.gcm.application.modules:PMWebServicesEAR:9.2.3.0-RC1"
+  }],
+  "adf_accounts": [  {
+    "id": "Z2NtLXJlbGVhc2U6MmIwNmQyZmEyZTFiNDJhNDE3NGVlZDhkYTBhZjg5Mjk",
+    "repository": "gcm-release",
+    "format": "maven2",
+    "group": "com.euroscript.gcm.application",
+    "name": "GCMAppAccountsEar",
+    "version": "9.2.3.0-RC1",
+    "downloaded": true,
+    "deployed": false,
+    "status": "IN ERROR: Can't deployed the artefact com.euroscript.gcm.application:GCMAppAccountsEar:9.2.3.0-RC1"
+  }],
+  "osb": [],
+  "soa_mds": [],
+  "soa": [],
+  "orchestrator": []
 }}
