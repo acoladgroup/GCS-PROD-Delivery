@@ -18,9 +18,9 @@
     "group": "com.euroscript.gcm.application.modules",
     "name": "DMWebServicesEAR",
     "version": "9.2.3.0-RC1",
-    "downloaded": false,
+    "downloaded": true,
     "deployed": false,
-    "status": "IN ERROR: Can't download the artefact com.euroscript.gcm.application.modules:DMWebServicesEAR:9.2.3.0-RC1"
+    "status": "IN ERROR: Can't deployed the artefact com.euroscript.gcm.application.modules:DMWebServicesEAR:9.2.3.0-RC1"
   }],
   "adf_dmrestws": [  {
     "id": "Z2NtLXJlbGVhc2U6ODhiZmFmYTk2MGJhYjUyMWMzMTMyYjZhNGFlNWNiNzc",
